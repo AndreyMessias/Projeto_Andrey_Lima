@@ -1,2 +1,2 @@
-def getSoma(a, b):
+def getSomaEduardoVilas(a,b):
     return a + b
